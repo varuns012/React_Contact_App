@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar_title {
+    padding: 20px;
+}
+
+.navbar_item {
+    padding: 20px;
+}
+
+.ant-form-item-label > label {
+    width: 150px;
+}
+
+.ant-modal-body {
+    padding-bottom: 5px !important;
+}
